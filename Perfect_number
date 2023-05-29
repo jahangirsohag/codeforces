@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int perfect_number(int);
+int smallest_perfect_number(int);
+
+int smallest_perfect_number(int o)
+{
+       
+}
+
+int perfect_number(int n)
+{
+       
+}
+int main() {
+    int k;
+    scanf("%d",&k);
+    printf("%d", smallest_perfect_number(k));
+
+    return 0;
+}
